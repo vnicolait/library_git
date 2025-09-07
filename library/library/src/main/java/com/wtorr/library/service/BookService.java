@@ -12,4 +12,6 @@ public interface BookService {
     Book updateBook(int isbn, Book book);
     void deleteById(int isbn);
     List<Book> listBooks();
+
+    void test2();
 }
