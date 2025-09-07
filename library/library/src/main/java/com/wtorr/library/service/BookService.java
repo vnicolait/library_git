@@ -14,4 +14,6 @@ public interface BookService {
     List<Book> listBooks();
 
     void test();
+
+    void test2();
 }
